@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>N-Gram Next-Word Prediction System</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="container">
+
+        <!-- HEADER -->
+        <header class="header">
+
+            <div class="tag">
+                NLP CASE STUDY
+            </div>
+
+            <h1>
+                N-Gram Next-Word<br>
+                Prediction System
+            </h1>
+
+            <p class="subtitle">
+                A simple language modeling system that predicts the
+                next word using N-Gram probabilities.
+            </p>
+
+        </header>
+
+
+        <!-- PREDICTION CARD -->
+        <section class="card prediction-card">
+
+            <div class="section-header">
+
+                <div>
+                    <span class="section-label">
+                        NEXT-WORD PREDICTION
+                    </span>
+
+                    <h2>Enter your text</h2>
+                </div>
+
+                <span class="model-badge">
+                    N-GRAM MODEL
+                </span>
+
+            </div>
+
+
+            <!-- INPUT -->
+
+            <label for="text-input">
+                Input Text
+            </label>
+
+            <div class="input-wrapper">
+
+                <input
+                    type="text"
+                    id="text-input"
+                    placeholder="Example: student is"
+                    autocomplete="off"
+                >
+
+                <button id="predict-btn" type="button">
+                    Predict
+                </button>
+
+            </div>
+
+            <p class="input-help">
+                Enter one word for Bigram prediction or two words
+                for Trigram prediction.
+            </p>
+
+
+            <!-- MODEL INFORMATION -->
+
+            <div class="info-grid">
+
+                <div class="info-box">
+                    <span>MODEL</span>
+                    <strong id="model-info">
+                        Trigram
+                    </strong>
+                </div>
+
+                <div class="info-box">
+                    <span>VOCABULARY</span>
+                    <strong>69 Words</strong>
+                </div>
+
+                <div class="info-box">
+                    <span>CORPUS</span>
+                    <strong>209 Words</strong>
+                </div>
+
+                <div class="info-box">
+                    <span>SMOOTHING</span>
+                    <strong>Add-1</strong>
+                </div>
+
+            </div>
+
+
+            <!-- RESULTS -->
+
+            <div class="prediction-section" id="results">
+
+                <div class="prediction-title">
+
+                    <div>
+                        <span class="section-label">
+                            RESULT
+                        </span>
+
+                        <h2>Next-word predictions</h2>
+                    </div>
+
+                    <span class="top-label">
+                        Top 3
+                    </span>
+
+                </div>
+
+
+                <div class="prediction-list" id="prediction-list">
+
+                    <div class="prediction-row">
+
+                        <div class="rank">
+                            01
+                        </div>
+
+                        <div class="prediction-word">
+                            studying
+                        </div>
+
+                        <div class="probability">
+                            0.0385
+                        </div>
+
+                    </div>
+
+
+                    <div class="prediction-row">
+
+                        <div class="rank">
+                            02
+                        </div>
+
+                        <div class="prediction-word">
+                            learning
+                        </div>
+
+                        <div class="probability">
+                            0.0385
+                        </div>
+
+                    </div>
+
+
+                    <div class="prediction-row">
+
+                        <div class="rank">
+                            03
+                        </div>
+
+                        <div class="prediction-word">
+                            preparing
+                        </div>
+
+                        <div class="probability">
+                            0.0385
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- HOW IT WORKS -->
+
+        <section class="card">
+
+            <div class="section-header">
+
+                <div>
+                    <span class="section-label">
+                        ABOUT THE MODEL
+                    </span>
+
+                    <h2>How it works</h2>
+                </div>
+
+            </div>
+
+
+            <div class="process-grid">
+
+                <div class="process-item">
+
+                    <div class="process-number">
+                        01
+                    </div>
+
+                    <h3>Preprocessing</h3>
+
+                    <p>
+                        Text is converted to lowercase and divided
+                        into individual words.
+                    </p>
+
+                </div>
+
+
+                <div class="process-item">
+
+                    <div class="process-number">
+                        02
+                    </div>
+
+                    <h3>N-Gram Generation</h3>
+
+                    <p>
+                        Bigram and Trigram sequences are generated
+                        from the processed text.
+                    </p>
+
+                </div>
+
+
+                <div class="process-item">
+
+                    <div class="process-number">
+                        03
+                    </div>
+
+                    <h3>Probability</h3>
+
+                    <p>
+                        Word probabilities are calculated using
+                        observed word frequencies.
+                    </p>
+
+                </div>
+
+
+                <div class="process-item">
+
+                    <div class="process-number">
+                        04
+                    </div>
+
+                    <h3>Prediction</h3>
+
+                    <p>
+                        The model selects the most probable next
+                        words from the given context.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- EVALUATION -->
+
+        <section class="card evaluation-card">
+
+            <div class="section-header">
+
+                <div>
+                    <span class="section-label">
+                        PERFORMANCE
+                    </span>
+
+                    <h2>Model Evaluation</h2>
+                </div>
+
+                <span class="test-badge">
+                    10 Test Cases
+                </span>
+
+            </div>
+
+
+            <div class="evaluation-grid">
+
+                <div class="evaluation-box">
+
+                    <span>TOP-1 ACCURACY</span>
+
+                    <strong>40%</strong>
+
+                    <p>
+                        Correct first prediction
+                    </p>
+
+                </div>
+
+
+                <div class="evaluation-box">
+
+                    <span>TOP-3 ACCURACY</span>
+
+                    <strong>100%</strong>
+
+                    <p>
+                        Correct word within top 3
+                    </p>
+
+                </div>
+
+
+                <div class="evaluation-box">
+
+                    <span>TEST CASES</span>
+
+                    <strong>10</strong>
+
+                    <p>
+                        Evaluation samples
+                    </p>
+
+                </div>
+
+
+                <div class="evaluation-box">
+
+                    <span>VOCABULARY</span>
+
+                    <strong>69</strong>
+
+                    <p>
+                        Unique words
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- FOOTER -->
+
+        <footer>
+
+            <div class="footer-title">
+                N-Gram Based Next-Word Prediction System
+            </div>
+
+            <div class="footer-subtitle">
+                NLP Academic Case Study
+            </div>
+
+        </footer>
+
+    </main>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

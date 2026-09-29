@@ -1,0 +1,33 @@
+The student is studying computer science.
+The student is learning programming.
+The student is preparing for examinations.
+The student is reading a book.
+The student is writing a program.
+The teacher is teaching computer science.
+The teacher is explaining natural language processing.
+The teacher is explaining machine learning.
+The teacher is reading a book.
+The teacher is writing notes.
+The computer is running a program.
+The computer is processing the data.
+The computer is learning from data.
+Natural language processing is a field of artificial intelligence.
+Natural language processing helps computers understand human language.
+Machine learning helps computers learn from data.
+Machine learning is used in many applications.
+The student is learning natural language processing.
+The student is studying machine learning.
+The student is preparing a project.
+The student is developing a project.
+The teacher is checking the project.
+The teacher is evaluating the student.
+The project is based on natural language processing.
+The project uses a language model.
+A language model predicts the next word.
+An N gram model predicts words from previous words.
+A bigram contains two consecutive words.
+A trigram contains three consecutive words.
+The model calculates word probabilities.
+The model predicts the next word.
+The system generates a prediction.
+The system displays the predicted word.
