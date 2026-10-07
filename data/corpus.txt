@@ -3,31 +3,663 @@ The student is learning programming.
 The student is preparing for examinations.
 The student is reading a book.
 The student is writing a program.
+The student is attending a class.
+The student is going to college.
+The student is coming to college.
+The student is working on a project.
+The student is completing an assignment.
+The student is solving a problem.
+The student is asking a question.
+The student is answering a question.
+The student is taking notes.
+The student is checking the notes.
+The student is using a computer.
+The student is using a laptop.
+The student is learning Java.
+The student is learning Python.
+The student is learning web development.
+The student is practicing programming.
+The student is preparing for a test.
+The student is preparing for an interview.
+The student is looking for a job.
+The student is working on a project.
+The student is making a presentation.
+The student is giving a presentation.
+The student is reading the textbook.
+The student is writing code.
+The student is testing the program.
+The student is fixing the error.
+The student is checking the output.
+The student is saving the file.
+The student is opening the laptop.
+The student is closing the laptop.
+The student is using the internet.
+The student is searching for information.
+The student is watching a video.
+The student is listening to the teacher.
+The student is talking to a friend.
+The student is helping a friend.
+The student is going home.
+The student is coming back home.
+The student is having lunch.
+The student is drinking water.
+The student is taking a break.
+The student is going to sleep.
+The student is waking up early.
+The student is studying every day.
+The student is practicing every day.
+
 The teacher is teaching computer science.
+The teacher is explaining programming.
 The teacher is explaining natural language processing.
 The teacher is explaining machine learning.
 The teacher is reading a book.
 The teacher is writing notes.
+The teacher is checking the assignment.
+The teacher is checking the project.
+The teacher is checking the answer.
+The teacher is asking a question.
+The teacher is answering a question.
+The teacher is giving an example.
+The teacher is explaining the topic.
+The teacher is explaining the problem.
+The teacher is solving the problem.
+The teacher is helping the student.
+The teacher is helping the class.
+The teacher is taking the class.
+The teacher is starting the class.
+The teacher is ending the class.
+The teacher is giving homework.
+The teacher is checking homework.
+The teacher is preparing a lesson.
+The teacher is preparing a test.
+The teacher is evaluating the student.
+The teacher is evaluating the project.
+The teacher is using a computer.
+The teacher is using a laptop.
+The teacher is showing a presentation.
+The teacher is giving instructions.
+The teacher is talking to the students.
+The teacher is answering questions.
+The teacher is explaining the answer.
+The teacher is checking the results.
+The teacher is reading the report.
+The teacher is writing the report.
+The teacher is discussing the project.
+The teacher is discussing the problem.
+The teacher is helping students learn.
+The teacher is teaching new concepts.
+
+The student has a book.
+The student has a laptop.
+The student has a computer.
+The student has a project.
+The student has an assignment.
+The student has a question.
+The student has a test.
+The student has an exam.
+The student has a class.
+The student has a problem.
+The student has some work.
+The student has some notes.
+The student has a presentation.
+The student has a deadline.
+The student has a meeting.
+
+The student needs a book.
+The student needs a computer.
+The student needs a laptop.
+The student needs some help.
+The student needs more time.
+The student needs more practice.
+The student needs more information.
+The student needs to study.
+The student needs to practice.
+The student needs to complete the project.
+The student needs to finish the assignment.
+The student needs to check the answer.
+
+The student wants a new laptop.
+The student wants to learn programming.
+The student wants to learn Java.
+The student wants to learn Python.
+The student wants to build a project.
+The student wants to get a job.
+The student wants to improve skills.
+The student wants to pass the exam.
+The student wants to solve the problem.
+The student wants to understand the topic.
+
+The student likes computer science.
+The student likes programming.
+The student likes reading books.
+The student likes learning new things.
+The student likes working on projects.
+The student likes playing games.
+The student likes watching movies.
+The student likes listening to music.
+The student likes cricket.
+The student likes football.
+
+The student does not understand the question.
+The student does not understand the topic.
+The student does not know the answer.
+The student does not have enough time.
+The student does not have a laptop.
+The student does not like the problem.
+The student cannot solve the problem.
+The student cannot find the answer.
+The student cannot open the file.
+The student cannot run the program.
+
+The student finished the assignment.
+The student finished the project.
+The student completed the work.
+The student completed the test.
+The student solved the problem.
+The student found the answer.
+The student opened the file.
+The student saved the file.
+The student ran the program.
+The student checked the output.
+
+The student will study tomorrow.
+The student will attend the class.
+The student will complete the project.
+The student will finish the assignment.
+The student will prepare for the exam.
+The student will practice programming.
+The student will learn new topics.
+The student will meet the teacher.
+The student will submit the project.
+The student will check the results.
+
 The computer is running a program.
 The computer is processing the data.
 The computer is learning from data.
-Natural language processing is a field of artificial intelligence.
-Natural language processing helps computers understand human language.
-Machine learning helps computers learn from data.
-Machine learning is used in many applications.
-The student is learning natural language processing.
-The student is studying machine learning.
-The student is preparing a project.
-The student is developing a project.
-The teacher is checking the project.
-The teacher is evaluating the student.
+The computer is connected to the internet.
+The computer is connected to the network.
+The computer is running slowly.
+The computer is working properly.
+The computer is showing an error.
+The computer is showing the result.
+The computer is saving the file.
+The computer is opening the file.
+The computer is closing the file.
+The computer is reading the data.
+The computer is writing the data.
+The computer is storing the data.
+The computer is processing the information.
+The computer is running the application.
+The computer is running the software.
+The computer is connected to the server.
+The computer is checking the system.
+
+The laptop is working properly.
+The laptop is running slowly.
+The laptop is connected to the internet.
+The laptop is connected to the charger.
+The laptop is running a program.
+The laptop is running the application.
+The laptop is showing an error.
+The laptop is showing the result.
+The laptop is saving the file.
+The laptop is opening the browser.
+The laptop is connected to the network.
+The laptop is used for studying.
+The laptop is used for programming.
+The laptop is used for online classes.
+The laptop is used for project work.
+
+The program is running.
+The program is working.
+The program is showing an error.
+The program is showing the result.
+The program is processing the data.
+The program is reading the file.
+The program is writing the file.
+The program is saving the data.
+The program is checking the input.
+The program is checking the output.
+The program is using a function.
+The program is using a loop.
+The program is using a variable.
+The program is written in Java.
+The program is written in Python.
+The program is easy to use.
+The program is simple to understand.
+The program is used for testing.
+The program is used for learning.
+The program gives the correct answer.
+
+The file is open.
+The file is closed.
+The file is saved.
+The file is ready.
+The file is available.
+The file is missing.
+The file is small.
+The file is large.
+The file contains data.
+The file contains information.
+The file contains the results.
+The file contains the program.
+The file is used for testing.
+The file is used for the project.
+The file is saved on the computer.
+
+The internet is working.
+The internet is slow.
+The internet is fast.
+The internet is connected.
+The internet is not working.
+The internet is useful.
+The internet provides information.
+The internet helps students learn.
+The internet helps people communicate.
+The internet is used for online classes.
+The internet is used for research.
+The internet is used for programming.
+The internet is used for communication.
+The internet is used every day.
+
+I am a student.
+I am studying computer science.
+I am learning programming.
+I am working on a project.
+I am reading a book.
+I am writing code.
+I am solving a problem.
+I am preparing for an exam.
+I am attending a class.
+I am using a laptop.
+I am using the internet.
+I am checking my notes.
+I am doing my homework.
+I am practicing Java.
+I am practicing Python.
+I am learning new things.
+I am working every day.
+I am trying to understand the topic.
+I am looking for an answer.
+I am ready for the test.
+
+We are students.
+We are studying computer science.
+We are learning programming.
+We are working on a project.
+We are preparing for an exam.
+We are attending the class.
+We are reading the book.
+We are writing the report.
+We are checking the results.
+We are solving the problem.
+We are using a computer.
+We are using the internet.
+We are practicing together.
+We are learning together.
+We are working together.
+
+We have a project.
+We have an assignment.
+We have a test.
+We have an exam.
+We have a class.
+We have a meeting.
+We have a question.
+We have a problem.
+We have some work.
+We have enough time.
+We have a computer.
+We have a laptop.
+We have an idea.
+We have a solution.
+
+We need to complete the project.
+We need to finish the assignment.
+We need to study for the exam.
+We need to practice programming.
+We need to check the answer.
+We need to solve the problem.
+We need to submit the report.
+We need to prepare the presentation.
+We need to work together.
+We need to learn the topic.
+
+We want to learn programming.
+We want to build a project.
+We want to solve the problem.
+We want to pass the exam.
+We want to get a good job.
+We want to improve our skills.
+We want to learn new things.
+We want to understand the topic.
+We want to complete the project.
+We want to finish the work.
+
+Today is a good day.
+Today is a busy day.
+Today is a working day.
+Today we have a class.
+Today we have a test.
+Today we have an exam.
+Today we are studying.
+Today we are learning.
+Today we are working on a project.
+Today we are preparing for the test.
+
+Tomorrow is a new day.
+Tomorrow we have a class.
+Tomorrow we have an exam.
+Tomorrow we will study.
+Tomorrow we will practice.
+Tomorrow we will complete the project.
+Tomorrow we will submit the assignment.
+Tomorrow we will meet the teacher.
+
+The class is starting.
+The class is going on.
+The class is interesting.
+The class is useful.
+The class is difficult.
+The class is easy.
+The class is finished.
+The class is online.
+The class is in the morning.
+The class is in the afternoon.
+The class starts at ten.
+The class ends at twelve.
+
+The exam is tomorrow.
+The exam is difficult.
+The exam is easy.
+The exam is important.
+The exam is starting.
+The exam is finished.
+The exam is online.
+The exam is at ten.
+The exam is in the morning.
+The exam is next week.
+The student is ready for the exam.
+The student is preparing for the exam.
+The student is studying for the exam.
+
+The project is ready.
+The project is complete.
+The project is simple.
+The project is useful.
+The project is interesting.
+The project is difficult.
 The project is based on natural language processing.
 The project uses a language model.
-A language model predicts the next word.
-An N gram model predicts words from previous words.
-A bigram contains two consecutive words.
-A trigram contains three consecutive words.
-The model calculates word probabilities.
-The model predicts the next word.
+The project uses Python.
+The project uses Java.
+The project uses a database.
+The project has a frontend.
+The project has a backend.
+The project needs testing.
+The project needs more work.
+The project is almost complete.
+The project is ready for evaluation.
+The student is working on the project.
+The teacher is checking the project.
+The team is discussing the project.
+
+The team is working together.
+The team is working on a project.
+The team is preparing a presentation.
+The team is discussing the problem.
+The team is solving the problem.
+The team is checking the results.
+The team is writing the report.
+The team is testing the program.
+The team is preparing for the evaluation.
+The team is learning together.
+The team has a project.
+The team has a meeting.
+The team has a deadline.
+
+The report is ready.
+The report is complete.
+The report is simple.
+The report is useful.
+The report contains information.
+The report contains the results.
+The report contains the project details.
+The report is written by the student.
+The report is checked by the teacher.
+The report is submitted to the teacher.
+The student is writing the report.
+The student is checking the report.
+
+The answer is correct.
+The answer is wrong.
+The answer is simple.
+The answer is easy.
+The answer is difficult.
+The answer is available.
+The answer is in the book.
+The answer is in the notes.
+The answer is on the internet.
+The student knows the answer.
+The student does not know the answer.
+The teacher knows the answer.
+The teacher explains the answer.
+
+The question is simple.
+The question is easy.
+The question is difficult.
+The question is important.
+The question is interesting.
+The question is about programming.
+The question is about computer science.
+The question is about machine learning.
+The question is about natural language processing.
+The student asks a question.
+The teacher asks a question.
+The student answers the question.
+The teacher answers the question.
+
+Programming is easy to learn.
+Programming is useful.
+Programming is important.
+Programming is used in many applications.
+Programming helps students solve problems.
+Programming helps students build projects.
+Programming requires practice.
+Programming requires patience.
+Programming is used to create software.
+Programming is used to build websites.
+Programming is used to build applications.
+Programming is used in computer science.
+
+Java is a programming language.
+Java is used in many applications.
+Java is used for software development.
+Java is useful for learning programming.
+Java is easy to understand.
+Java is used in college projects.
+Java is used to build applications.
+Java programs use classes.
+Java programs use objects.
+Java programs use methods.
+
+Python is a programming language.
+Python is easy to learn.
+Python is easy to use.
+Python is used in many applications.
+Python is used for machine learning.
+Python is used for data analysis.
+Python is used for web development.
+Python is used in college projects.
+Python helps students learn programming.
+Python is useful for beginners.
+
+Web development is useful.
+Web development is interesting.
+Web development uses HTML.
+Web development uses CSS.
+Web development uses JavaScript.
+HTML is used to create web pages.
+CSS is used to style web pages.
+JavaScript is used to make web pages interactive.
+A website has a frontend.
+A website has a backend.
+The frontend shows information.
+The backend processes information.
+The browser displays the website.
+The browser opens a web page.
+The user opens the website.
+The user enters information.
+The user clicks a button.
+The user submits a form.
+
+Natural language processing is a field of artificial intelligence.
+Natural language processing helps computers understand human language.
+Natural language processing is used in many applications.
+Natural language processing is used for text processing.
+Natural language processing is used for language understanding.
+Natural language processing is used in chatbots.
+Natural language processing is used in search systems.
+Natural language processing is used in translation.
+Natural language processing is used in sentiment analysis.
+Natural language processing works with text.
+Natural language processing works with words.
+Natural language processing works with sentences.
+
+Machine learning helps computers learn from data.
+Machine learning is used in many applications.
+Machine learning is used for prediction.
+Machine learning is used for classification.
+Machine learning is used for data analysis.
+Machine learning works with data.
+Machine learning uses algorithms.
+Machine learning uses training data.
+Machine learning uses test data.
+Machine learning models learn patterns.
+Machine learning models make predictions.
+Machine learning can solve many problems.
+
+Data is important.
+Data is useful.
+Data is stored in a database.
+Data is stored in a file.
+Data is processed by a computer.
+Data is used for analysis.
+Data is used for prediction.
+Data is used for machine learning.
+Data contains information.
+The system processes the data.
+The computer processes the data.
+The program reads the data.
+The program saves the data.
+The student collects the data.
+
+A database stores data.
+A database stores information.
+The database contains records.
+The database contains student information.
+The database contains project information.
+The program uses a database.
+The application uses a database.
+The student uses the database.
+The teacher checks the database.
+The system stores the data in a database.
+
+The system is working.
+The system is running.
+The system is ready.
+The system is fast.
+The system is simple.
+The system is useful.
+The system is processing data.
+The system is generating a result.
+The system is displaying the result.
+The system is checking the input.
+The system is checking the output.
 The system generates a prediction.
 The system displays the predicted word.
+The system predicts the next word.
+The system uses a language model.
+The system uses an N gram model.
+The system processes the input.
+The system returns the result.
+
+A language model predicts the next word.
+A language model predicts words from previous words.
+A language model learns from text.
+A language model uses probabilities.
+A language model is trained on data.
+A language model can generate text.
+An N gram model predicts the next word.
+An N gram model uses previous words.
+An N gram model counts word sequences.
+An N gram model calculates probabilities.
+A bigram contains two consecutive words.
+A trigram contains three consecutive words.
+A four gram contains four consecutive words.
+The model calculates word probabilities.
+The model predicts the next word.
+The model selects the most probable word.
+The model uses training data.
+The model uses a corpus.
+The model learns word patterns.
+The model generates a prediction.
+The prediction is based on previous words.
+The prediction depends on the context.
+
+The word is common.
+The word is important.
+The word appears in the sentence.
+The word appears in the corpus.
+The word is part of the sentence.
+The word comes after another word.
+The next word is predicted.
+The next word depends on the context.
+The next word comes from the vocabulary.
+The model predicts a word from the vocabulary.
+
+The user enters a sentence.
+The user enters a word.
+The user enters some text.
+The user clicks the predict button.
+The user checks the prediction.
+The user selects a model.
+The user selects a corpus.
+The user selects the bigram model.
+The user selects the trigram model.
+The user enters the context.
+The system receives the input.
+The system processes the input.
+The system predicts the next word.
+The system shows the prediction.
+The user checks the result.
+The user tries another sentence.
+
+The prediction is correct.
+The prediction is useful.
+The prediction is based on the model.
+The prediction is based on the context.
+The prediction has a probability.
+The prediction is shown to the user.
+The model gives three predictions.
+The model gives five predictions.
+The first prediction has the highest probability.
+The second prediction has a lower probability.
+The third prediction has a lower probability.
+
+The student is happy with the result.
+The student is ready for the presentation.
+The student is ready for the exam.
+The student is ready for the interview.
+The student is working hard.
+The student is studying hard.
+The student is learning every day.
+The student is practicing every day.
+The student is improving every day.
+The student is trying to learn.
+The student is trying to solve the problem.
+The student is trying to complete the project.
+The student is ready to submit the project.
+The student is ready to give the presentation.
+The student is ready to answer questions.
